@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ in our school 
 - I have created this github repository to upload my school codes so that other highschoolers who find difficult coding have ease of access
 
-- if you want to acces those codes change repository
+- if you want to acces those codes change repository to computer-science-high-school 
 
 <!---
 sudviz/sudviz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
